@@ -1,0 +1,81 @@
+{	"catInfo":[
+		{
+			"Gaming":{
+				"catId":"1"
+				},
+			"Mobiles and Tablets":{
+				"catId":"10"
+				},
+			"Computer":{
+				"catId":"39"
+				},
+			"Eyewear":{
+				"catId":"95"
+				},
+			"Home Entertainment":{
+				"catId":"96"
+				},
+			"Sports and Fitness":{
+				"catId":"130"
+				},
+			"Pens and Stationery":{
+				"catId":"314"
+				},
+			"Clothing":{
+				"catId":"371"
+				},
+			"Home Decor":{
+				"catId":"646"
+				},
+			"Beauty and Personal Care":{
+				"catId":"714"
+				},
+			"Bags, Wallets and Belts":{
+				"catId":"907"
+				},
+			"Watches":{
+				"catId":"948"
+				},
+			"Home and Kitchen":{
+				"catId":"1003"
+				},
+			"Cameras and Accessories":{
+				"catId":"1028"
+				},
+			"Baby Care":{
+				"catId":"1048"
+				},
+			"Toys and School Supplies":{
+				"catId":"1078"
+				},
+			"Jewellery":{
+				"catId":"1204"
+				},
+			"Footwear":{
+				"catId":"1285"
+				},
+			"Auto Parts":{
+				"catId":"1528"
+				},
+			"Hardware and Accessories":{
+				"catId":"3262"
+				},
+			"Pet Supplies":{
+				"catId":"3918"
+				},
+			"Musical Instruments":{
+				"catId":"4083"
+				},
+			"Books":{
+				"catId":"5266"
+				},
+			"Men":{
+				"catId":"10625"
+				},
+			"Baby and Kids":{
+				"catId":"10628"
+				}
+			}]}
+
+
+

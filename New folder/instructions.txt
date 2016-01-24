@@ -1,0 +1,24 @@
+=====================================================================
+System requrements:(for the best performance)
+Windows & or higher
+Google chrome version:Version 47.0.2526.111 m or higher 
+PHP installed with curl extension
+WAMP server installed on the pc
+=====================================================================
+Instructions to run the website:
+1.in the localhost folder create a new folder with the name "alphadeals".
+2.In the "alphadeals" folder create a 3 folders with the names
+	->Flipkart
+	->Snapdeal
+	->Images
+3.Download the necessary files for the folders above from the links provided below
+	->Flipkart=https://drive.google.com/file/d/0B_1L-lB_G7JpTTZCdVl6NXdmUjQ/view?usp=sharing
+	->Snapdeal=https://drive.google.com/file/d/0B_1L-lB_G7JpU0Iyc0dPYkJBQWs/view?usp=sharing
+	->Images=https://drive.google.com/file/d/0B_1L-lB_G7JpTi1xTnhra2hKbHc/view?usp=sharing
+4.Extract the rar files to their respective folders.
+5.Copy the code files from the cloud to the alphadeals folder.
+6. Go to the browser(preferably chrome) and type in "localhost/alphadeals/alphadeals home.php"
+7. Home page should be there and start exploring the site.
+
+====================================================================
+Thank you.

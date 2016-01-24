@@ -1,0 +1,77 @@
+body{
+	overflow-x: hidden;
+	font-family: Open sans, Helvetica;
+	background-color: #000000;
+	background-position: fixed; 
+	color: #F2F2E8;
+}
+.navbar{
+	border-radius: 0;
+}
+.navbar-default{
+	background-color: #000000;
+	border-color: #000000;
+}
+.navbar-default .navbar-nav>li>a{
+	color: #F2F2E8;
+	font-size: 16px;
+}
+.navbar-default .navbar-nav>li>a:hover{
+	color: #337AB7;
+}
+.navbar-default .navbar-right{
+	text-align: right;
+}
+.row{
+	margin-right: 0;
+	margin-left: 0;
+}
+.categ-nav{
+	font-size: 18px;
+	text-align: center;
+}
+.row .categs{
+	background-color: #D2D2D2;
+	border-right: 3px solid #000000;
+	border-bottom: 3px solid #000000;
+}
+.row .categs a{
+	color: #000000;
+}
+.row .categs a:hover{
+	color: #337AB7;
+	text-decoration: none;
+}
+#disp{
+	height: 100%;
+	width: 100%;
+	background-color: #FFFFFF;
+	margin-top: 20px;
+}
+.gallery{
+	margin-top: 15px;
+}
+.gallery p{
+	padding-left: 5px;
+}
+#foot{
+	margin-top: 10px;
+	padding-left: 0;
+	padding-right: 0;
+}
+#foot p{
+	text-align: center;
+	font-size: 16px;
+	color: #000000;
+	background-color: #808080;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	margin-bottom: 0;
+}
+.gallery img{
+	width: 150px;
+	height: 200px;
+}
+#prod1{ height: 200px; width: 200px; overflow: hidden; }
+#img-prod1{padding:5px;height: 150px; width: 150px;}
